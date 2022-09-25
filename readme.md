@@ -14,7 +14,7 @@
 [State Diagram](./uml-diagrams/state-diagram.png)<br>
 [Activity Diagram](./uml-diagrams/activity-diagram.png)<br>
 [Sequence Diagram](./uml-diagrams/sequence-diagram.png)<br>
-[Data Modelling](./uml-diagrams/class-diagram.png)<br>
+[Data Model](./uml-diagrams/class-diagram.png)<br>
 
 ### Libraries
 
