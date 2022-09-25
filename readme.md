@@ -16,9 +16,11 @@
 [Sequence Diagram](./uml-diagrams/sequence-diagram.png)<br>
 [Data Model](./uml-diagrams/class-diagram.png)<br>
 
-### Libraries
+### Libraries and their usages
 
 [**Truffle**](http://truffleframework.com/): Used in development, testing and deploying the smart contracts.
+[**Web3js**](https://web3js.readthedocs.io/): Used in interacting with the smart contracts on the client side
+
 
 ## Contract Details
 
