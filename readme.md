@@ -1,6 +1,11 @@
 # Decentralized Coffee Supply Chain
 ## A decentralized app that track coffee supply from a farmer to the final consumer. It runs on Ethereum blockchain.
 
+### Roles
+- **Farmer**: Harvests, Processes, Packs and Sells coffee to the **Distributor**.
+- **Distributor**: Buys coffee from the **Farmer** and Ships the coffee to the **Retailer**.
+- **Retailer**: Receives coffee from the **Distributor**.
+- **Consumer**: Purchase coffee form the **Retailer**
 
 ## Project Write-Up
 
