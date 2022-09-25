@@ -1,0 +1,22 @@
+{
+  "name": "decentralized-coffee-supply-chain",
+  "version": "1.0.0",
+  "description": "A decentralized coffee supply chain",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "develop": "truffle develop",
+    "compile": "truffle compile",
+    "deploy": "truffle migrate --reset --network rinkeby",
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "Qudus <adeyems@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
