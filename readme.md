@@ -75,6 +75,5 @@ Contract address: [0x7d90f7541427d3f0b1e03044b3d03b291bc1ce77](https://rinkeby.e
     ```
 - Create metamask.secret and infura.txt file and put your metamask secret and infura key into the respective files
 - Run ``npm run deploy`` to deploy to rinkeby network
-- 
 - Run ``npm run dev`` to serve the project locally and interact with the frontend at [localhost:3000](http://localhost:3000)
 
